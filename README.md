@@ -31,4 +31,4 @@ I have a collection of classic psychological experiments created in the coder ve
 
 Boy I bet I sound boring. Hear me out though, games are funner with a little side of statistics. My favorite creation is a game of war that updates your odds of winning with every round. It lets you know how badly you're doing. 
 
-[Back to the Home Page] (index.md)
+[Back to the Home Page](index.md)
