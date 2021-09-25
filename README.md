@@ -44,4 +44,3 @@ Boy I bet I sound boring. Hear me out though, games are funner with a little sid
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 
-[Back to the Home Page](index.md)
