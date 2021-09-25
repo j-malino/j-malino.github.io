@@ -1,3 +1,0 @@
-### Here's where you can find...
-
-[A little about me](README.md)
