@@ -44,5 +44,6 @@ Boy I bet I sound boring. Hear me out though, games are funner with a little sid
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://www.r-project.org/" target="_blank"> <img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png"/> </a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a>
+    <a href="https://www.cplusplus.com/"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
 </p>
 
