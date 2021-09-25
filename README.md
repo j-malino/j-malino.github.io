@@ -47,7 +47,7 @@ Boy I bet I sound boring. Hear me out though, games are funner with a little sid
     <a href="https://www.cplusplus.com/"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
 </p>
 
-## My Github Stats
+### My Github Stats
 
   <br/>
     <a href="https://github.com/j-malino/github-readme-stats"><img alt="Jess' Github Stats" src="https://github-readme-stats.vercel.app/api?username=j-malino&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
