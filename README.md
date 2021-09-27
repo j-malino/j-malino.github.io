@@ -17,21 +17,21 @@ When I am not in the research lab you can find me:
 
 ### Professional Areas of Interest
 
-#### Process Improvements
+##### Process Improvements
 
 If something's worth doing, it's worth doing right. As a lab manager I carry over the attention to detail from the experiment to the process. I love helping set up dashboards so that experiments are easier to track in real time. I also incorporate automating small tasks in my data tracking.  
 
-#### PsychoPy
+##### PsychoPy
 
 PsychoPy is an open source project for researchers, and I think this is the direction that cognitive research will be headed. In the future I plan to host small customizable solutions to common PsychoPy problems here on my GitHub. 
 
 ### Side Projects
 
-#### PsychoPy Tutorials
+##### PsychoPy Tutorials
 
 I have a collection of classic psychological experiments created in the coder version of PsychoPy that I think make for good coding tutorials for new PsychoPy/Python users.
 
-#### Games with in-built Statistical Models
+##### Games with in-built Statistical Models
 
 Boy I bet I sound boring. Hear me out though, games are funner with a little side of statistics. My favorite creation is a game of war that updates your odds of winning with every round. It lets you know how badly you're doing. 
 
@@ -42,7 +42,7 @@ Boy I bet I sound boring. Hear me out though, games are funner with a little sid
 <a href="https://github.com/computergeek1507/GVSU-CIS641-Jolly-Snowman">Jolly Snowman Page</a>
 <a href="https://github.com/j-malino/EmguCVDemoJmalino">Shape Matcher & Pregnancy Test Reader Repository</a>
 
-### Languages and Tools:
+##### Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -54,7 +54,7 @@ Boy I bet I sound boring. Hear me out though, games are funner with a little sid
     <a href="https://www.cplusplus.com/"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
 </p>
 
-### My Github Stats
+##### My Github Stats
 
 <a href="https://github.com/j-malino/github-readme-stats"><img alt="Jess' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-malino&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <p align="left">
