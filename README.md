@@ -37,9 +37,10 @@ Boy I bet I sound boring. Hear me out though, games are funner with a little sid
 
 ### My Projects and Repositories
 
-[Jolly Snowman Overview] (proposal.md)
-[Jolly Snowman Repository] (https://github.com/computergeek1507/GVSU-CIS641-Jolly-Snowman)
-[A Shape Matcher & Pregnancy Test Reader OpenCV Demo] (https://github.com/j-malino/EmguCVDemoJmalino)
+<a href="https://github.com/j-malino/j-malino.github.io/blob/main/proposal.md">Jolly Snowman Overview</a>
+<a href="https://github.com/computergeek1507/GVSU-CIS641-Jolly-Snowman">Jolly Snowman Repository</a>
+<a href="https://github.com/computergeek1507/GVSU-CIS641-Jolly-Snowman">Jolly Snowman Page</a>
+<a href="https://github.com/j-malino/EmguCVDemoJmalino">Shape Matcher & Pregnancy Test Reader Repository</a>
 
 ### Languages and Tools:
 
