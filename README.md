@@ -56,7 +56,7 @@ The core technologies in our program have uses beyond complex lights displays. I
 ">Jolly Snowman Project Page</a> <br>
 <a href="https://github.com/computergeek1507/GVSU-CIS641-Jolly-Snowman">Jolly Snowman Repository</a> <br>
 
-##### Other Repositories
+### Other Repositories
 
 <a href="https://github.com/j-malino/EmguCVDemoJmalino">Shape Matcher & Pregnancy Test Reader Repository</a> <br>
 
