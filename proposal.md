@@ -1,3 +1,9 @@
+---
+title: Jolly Snowman Overview
+layout: template
+filename: proposal.md
+--- 
+
 ## Jolly Snowman
 
 ### Introduction
