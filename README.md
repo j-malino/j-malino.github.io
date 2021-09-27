@@ -35,6 +35,12 @@ I have a collection of classic psychological experiments created in the coder ve
 
 Boy I bet I sound boring. Hear me out though, games are funner with a little side of statistics. My favorite creation is a game of war that updates your odds of winning with every round. It lets you know how badly you're doing. 
 
+### My Projects and Repositories
+
+[Jolly Snowman Overview] (https://github.com/j-malino/j-malino.github.io/blob/main/proposal.md)
+[Jolly Snowman Repository] (https://github.com/computergeek1507/GVSU-CIS641-Jolly-Snowman)
+[A Shape Matcher & Pregnancy Test Reader OpenCV Demo] (https://github.com/j-malino/EmguCVDemoJmalino)
+
 ### Languages and Tools:
 
 <p align="left"> 
