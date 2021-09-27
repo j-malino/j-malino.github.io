@@ -38,7 +38,7 @@ Boy I bet I sound boring. Hear me out though, games are funner with a little sid
 ### My Projects and Repositories
 
 <a href="https://computergeek1507.github.io/GVSU-CIS641-Jolly-Snowman/
-">Jolly Snowman Overview</a> <br>
+">Jolly Snowman Project Page</a> <br>
 <a href="https://github.com/computergeek1507/GVSU-CIS641-Jolly-Snowman">Jolly Snowman Repository</a> <br>
 <a href="https://github.com/j-malino/EmguCVDemoJmalino">Shape Matcher & Pregnancy Test Reader Repository</a> <br>
 
