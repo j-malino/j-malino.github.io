@@ -7,7 +7,7 @@
 
 ### About Me
 
-Currently I spend most of my time working in cognitive science and psycholinguistics research. I find programming and cognitive science to be extremely complementary. Right now my research projects are focused on visual processing under conditions of uncertainty and image interference in visual processing. 
+Currently I spend most of my time working in cognitive science and psycholinguistics research. I find programming and cognitive science to be extremely complementary. Right now my research projects are focused on modeling decision making, image processing with visual interference and the relationship of reading depth to social media. 
 
 When I am not in the research lab you can find me:
 
